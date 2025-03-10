@@ -1,0 +1,2 @@
+# projektiesimerkki
+Harjoittelua pankkiautomaattisovellusta varten
